@@ -1,11 +1,4 @@
 text {
-    -webkit-box-sizing: content-box;
-    -moz-box-sizing: content-box;
-    box-sizing: content-box;
-    border: none;
-    font: normal 23px/1 Verdana, Geneva, sans-serif;
-    color: black;
-    -o-text-overflow: ellipsis;
-    text-overflow: ellipsis;
-    text-shadow: 4px 0 9px rgba(0,80,160,1) ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
 }
